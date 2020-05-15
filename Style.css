@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    
+    width: 80vw;
+    height: 80vh;
+    background: linear-gradient(#00bfff, #0004ff);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.the-form {
+    background: white;
+    width: 270px;
+    height: 350px;
+    padding: 50px;
+}
+
+form div {
+    margin: 10px;
+}
